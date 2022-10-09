@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/arthurgrigoletto.png',
     alt: 'Arthur Grigoletto',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
