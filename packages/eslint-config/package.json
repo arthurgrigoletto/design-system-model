@@ -1,5 +1,5 @@
 {
-  "name": "@arthurgrigoletto/eslint-config",
+  "name": "@arthurgrigoletto-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

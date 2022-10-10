@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@arthurgrigoletto/tokens'
+} from '@arthurgrigoletto-ui/tokens'
 
 export const {
   styled,

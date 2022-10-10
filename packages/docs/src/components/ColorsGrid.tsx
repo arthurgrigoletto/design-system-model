@@ -1,4 +1,4 @@
-import { colors } from '@arthurgrigoletto/tokens'
+import { colors } from '@arthurgrigoletto-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {
