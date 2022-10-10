@@ -1,0 +1,2 @@
+import{A as t}from"./index.5097dbda.js";import"./index.5442e86b.js";import"./iframe.e7a322e3.js";import"./index.4f0acb1b.js";import"./jsx-runtime.af11c405.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/arthurgrigoletto.png",alt:"Arthur Grigoletto"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.ffd56d84.js.map
